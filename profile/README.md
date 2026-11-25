@@ -16,6 +16,6 @@ Daggry is a factory kit for unattended agent work. You set up its modules as you
 
 *Daggry is Danish for dawn.*
 
-**[Read the docs](https://daggry-website.thinkability.workers.dev)** · [Roadmap](https://daggry-website.thinkability.workers.dev/roadmap)
+**[Read the docs](https://daggry.dev)** · [Roadmap](https://daggry.dev/roadmap)
 
 Sponsored by [thinkability](https://thinkability.dk).
